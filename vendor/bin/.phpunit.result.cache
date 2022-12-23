@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":240:{a:2:{s:7:"defects";a:2:{s:27:"DateTest::testDateFormatRus";i:3;s:26:"DateTest::testDateFormatEn";i:3;}s:5:"times";a:3:{s:27:"DateTest::testDateFormatRus";d:0.003;s:26:"DateTest::testDateFormatEn";d:0;s:26:"DateTest::testdayOfTheWeek";d:0;}}}
